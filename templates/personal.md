@@ -1,0 +1,1 @@
+<% await tp.file.move(tp.file.folder()+"/personal/"+tp.file.title) %>
