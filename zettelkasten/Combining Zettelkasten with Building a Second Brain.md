@@ -1,10 +1,10 @@
 2023-12-24 09:12:19
 Status: #reference
 Tags: [[Digital Brain]], [[Productivity]]
-# Combining Zettlekasten with Building a Second Brain
+# Combining Zettelkasten with Building a Second Brain
 
 ## Summary
-This article discusses how to combine the [[Zettlekasten]] Method with *Building a Second Brain* method by [[Tiago Forte]]. [[Sascha Fast]] explains that the two methods can be combined "perfectly", as they are largely completely separate systems (and modular; see [[Modularity Principle]]).
+This article discusses how to combine the [[Zettelkasten]] Method with *Building a Second Brain* method by [[Tiago Forte]]. [[Sascha Fast]] explains that the two methods can be combined "perfectly", as they are largely completely separate systems (and modular; see [[Modularity Principle]]).
 
 Sascha summarizes *Building a Second Brain* as a system with the two key points:
 1. [[Building a Second Brain is an information management system]]

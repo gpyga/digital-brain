@@ -73,7 +73,7 @@ There are 16 SLUs which can be bundled into 6 Strategic Life Areas (SLAs)
 
 To assess our "life portfolio", divide an average week from the year across the 16 SLUs (ie - 40 hours of work, 60 hours of sleep, 20 hours of television/online entertainment, etc). Then, rate the importance of each SLU and rate the level of satisfaction for each SLU. The result will be a 2x2 similar to the [[BCG Portfolio Matrix]] with the importance on the y-axis and the satisfaction on the x-axis and the size of the bubble represents the time allocation.
 ![[life-matrix.png]]
-(source: [[@UseStrategicThinking]], 6m30s)
+(source: [[@harvardbusinessreviewUseStrategicThinking2024]], 6m30s)
 
 All three of these dimensions (satisfaction, importance and time commitment) are all under your control - though importance is likely slowly moving. The goal is to shift as many of the largest bubbles into the top-right as possible. That may mean spending more time on things that have high satisfaction and high importance or moving things which are high importance on the satisfaction scale. 
 
@@ -92,5 +92,5 @@ In almost every strategy project, we do a best practice and benchmarking analysi
 ---
 
 ## References
-[[@UseStrategicThinking]]
 [[@strackUseStrategicThinking2023]]
+[[@harvardbusinessreviewUseStrategicThinking2024]]
