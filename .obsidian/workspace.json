@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "613ffe3f51d99c08",
+    "type": "split",
+    "children": [
+      {
+        "id": "c35712014257a43d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e44c6063a40c9a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettlekasten/Modularity Principle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e4ae75236655227",
+    "type": "split",
+    "children": [
+      {
+        "id": "7faea2b26c05398a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5911d0a0c148413",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58160ead506f9757",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ffbc8598c674b93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33ded629e4138948",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2d22107a9dea007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a040434a9c1440",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zettlekasten/Modularity Principle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41d2363215d62412",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "zettlekasten/Modularity Principle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e8a47c58b6aa85b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "26546a6f79be8d09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zettlekasten/Modularity Principle.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e44c6063a40c9a7f",
+  "lastOpenFiles": [
+    "zettlekasten/Law of Demeter.md",
+    "zettlekasten/Modularity Principle.md",
+    "references/zotero-citations/@LawDemeterGeneral.md",
+    "zettlekasten/Clustering.md",
+    "references/zotero-citations/@CohesionComputerScience2023.md",
+    "zettlekasten/Use strategic thinking for self-improvement.md",
+    "zettlekasten/people",
+    "zettlekasten/Objects are fully defined by their relations.md",
+    "zettlekasten/Modularity is building Categories.md",
+    "zettlekasten/Isomorphisms contain an undo button.md",
+    "zettlekasten/Combining Zettlekasten with Building a Second Brain.md",
+    "zettlekasten/Simplified definition of Category (mathematics).md",
+    "zettlekasten/Abstraction Principle.md",
+    "references/zotero-citations/@ModularProgramming2023.md",
+    "references/zotero-citations/@pearceObjectOrientedAnalysis.md",
+    "zettlekasten/CODE Workflow.md",
+    "zettlekasten/Modularity is an important aspect of developing good systems.md",
+    "references/readwise-highlights/5. Design Principles and Patterns.md",
+    "zettlekasten/There is a connection between quantum computing and natural language processing.md",
+    "references/zotero-citations/@AppliedCategoryTheory.md",
+    "references/readwise-highlights/From Purpose to Impact.md",
+    "zettlekasten/2024 is the Year of Expression.md",
+    "zettlekasten/I want my life to reflect.md",
+    "zettlekasten/Actionless action.md",
+    "zettlekasten/2.md",
+    "references/readwise-highlights/Use Strategic Thinking to Create the Life You Want.md",
+    "references/zotero-citations/@strackUseStrategicThinking2023.md",
+    "files/life-matrix.png",
+    "tasks/closed",
+    "tasks",
+    "zettlekasten/atlas",
+    "references/readwise-highlights",
+    "lib",
+    "projects",
+    "resources",
+    "zettlekasten/people",
+    "Untitled.canvas",
+    "files"
+  ]
+}

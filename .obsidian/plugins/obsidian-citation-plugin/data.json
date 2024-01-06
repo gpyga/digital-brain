@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "references/zotero-citations",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\nurl: {{URL}}\nzotero: {{zoteroSelectURI}}\n---\n{{abstract}}\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/nickgryga/Library/Mobile Documents/com~apple~CloudDocs/Documents/zotero-library.bib"
+}

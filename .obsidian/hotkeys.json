@@ -1,0 +1,28 @@
+{
+  "templater-obsidian:templates/zettle.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "templater-obsidian:templates/moc.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:insert-link": [],
+  "templater-obsidian:templates/project.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ]
+}

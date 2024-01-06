@@ -1,0 +1,22 @@
+{
+  "token": "fKp4kmWA6JXQTj4vIBITgkUeM8mEuEqP2Jzz8V6tDQ47y9YzpD",
+  "readwiseDir": "references/readwise-highlights",
+  "frequency": "720",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 12167833,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [],
+  "booksIDsMap": {
+    "references/readwise-highlights/The Making of a Bestseller A Behind-The-Scenes Look at the Creation of Building a Second Brain.md": "35867316",
+    "references/readwise-highlights/1612.09375.md": "35881725",
+    "references/readwise-highlights/Run Your Personal Life Like a Project Manager.md": "35927367",
+    "references/readwise-highlights/Transitive Closure.md": "35976009",
+    "references/readwise-highlights/5. Design Principles and Patterns.md": "35975034",
+    "references/readwise-highlights/Use Strategic Thinking to Create the Life You Want.md": "36242790",
+    "references/readwise-highlights/From Purpose to Impact.md": "36250875"
+  },
+  "reimportShowConfirmation": true
+}
