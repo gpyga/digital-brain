@@ -2,7 +2,7 @@
   "useTab": false,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "zettlekasten",
+  "newFileFolderPath": "zettelkasten",
   "attachmentFolderPath": "files",
   "alwaysUpdateLinks": true
 }
