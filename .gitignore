@@ -6,6 +6,9 @@
 # Exclude any personal notes
 */personal/*
 
+# Exclude people notes
+zettelkasten/people/
+
 
 # This file is used to keep track of last auto backup/pull
 .obsidian-git-data
