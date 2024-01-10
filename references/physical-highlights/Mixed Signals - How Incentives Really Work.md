@@ -1,0 +1,41 @@
+## Metadata
+- Author: [[Uri Gneezy]]
+- Full Title: Mixed Signals: How Incentives Really Work
+[[@gneezyMixedSignalsHow2023]]
+## Highlights
+### Introduction
+- The key is to understand that incentives send signals. Too often there's a conflict between what you say and what your incentives signal. You can tell everyone that you care about honesty; talk in cheap. For the claim to be credible, you need to back it up by taking actions that are costly to you, such as paying the full entrance fee. If you'll align what you say with the incentives you offer, the signal will be credible and easy to understand.
+    - Note: What is the "cost" of truth? Or, how much do we value lying? What is the threshold of willingness to pay for being honest?
+- While requiring documentation would probably reduce the number of people lying, it would also create a lot of hassle and negative emotions
+    - Note: The opportunity cost of the "truth" is probably less than the opportunity cost of customers lying.
+- You can clearly coach you child to lie to the cashier, but boy, that is one strong and costly signal that lying is acceptable.
+    - Note: This somewhat implies there is more incentive to teach "immoral" behavior to children if you come from a low SES background (where money is more important).
+- Imagine a CEO who tells her employees how important it is to work as a team, but the incentives she designs for success are based on an individual's work. The result is simple: the employees would ignore what the CEO says and try to maximize their individual success and monetary gain, as they understand it from the incentives. 
+    - Note: Classic Principle-Agent Problem
+- You may conclude that to avoid such mixed signals, CEOs shouldn't use incentives at all. This book examines both perspectives and explores the middle ground that optimally shapes the incentives so they are aligned with the intended messages and avoid mixed signals.
+    - Note: Reinforcement Learning has a lot to teach here (well, more accurately, the link is in reverse, but RL can be simulated more easily than experiments run on humans)
+- My goal is to show you how to be incentive smart -- how to avoid these mixed signals and design incentives that are simple, effective, and ethical
+    - Note: cool
+- (regarding a set of shapes)... The audience injects meaning into these abstract shapes to make sense of them... people have no problem filling in the gaps (of the "story")... Hence, mastering the ability to shape the story is important, and incentives done right do just that.
+    - Note: Takeaway: take advantage of the human need for story-telling. 
+    - Note: It seems that story-telling strengthens the link between signal transmission and the receiver. Anecdotally, there appears to be evidence for this in politics, folklore, myth, etc.
+- All animals, not just humans, react to incentives
+    - Note: implies this is at least instinctual - there is evidence from Pavlov
+- Think about a lion in Tanzania hunting alone... the lion needs to be careful... This calculated approach to hunting can easily be explained by incentives: the lion wants to eat and feed its cubs and doesn't want to get hurt in the process. 
+    - Note: influence on the utility function - of which we are all trying to maximize
+- Lions and other animals react to incentives like humans, but they don't design incentives for others.
+- Here's a famous example that demonstrates this structural failing: in the lat '80s, shortly before the collapse of the Soviet Union, an official from Moscow went to London to learn about bread distribution. When he asked the economist Paul Seabright, "Who's in charge of bread distribution in London?" Seabright's reply was "Nobody."
+    - Note: Paul Seabright, *The Company of Strangers: A National History of Economic Life* (Princeton, NJ: Princeton University Press, 2010), chap. 1. 
+- *Social Signaling* captures the concern we have over what others might think of us.
+    - Note: Need to remain in the tribe
+- *Self-signaling* is conceptually similar to social signaling with one fundamental difference: it represents the concern over what we can infer about ourselves from our behavior.
+    - Note: Cognitive dissonance, intrinsic values and motives
+- Every time we behave in accordance with our identity, we view ourselves more positively.
+    - Note: George A. Akerlof and Rachel R. Kranton, "Economics and Identity," *Quarterly Journal of Economics* 115, no. 3 (2000); 715-53
+    - Note: Roland Benabou and Jean Tirole, "Incentives and Prosocial Behavior," *American Economic Review* 96, no. 5 (2006): 1652-78.
+- Sara is doing the exact thing you previously admired her for (recycling), only now she receives a couple of dollars in return. But instead of seeing her as a devoted environmentalist, you now see her as your cheap neighbor. In other words, the incentive changed the social signal that recycling sends.
+    - Note: Extrinsic incentive affects the narrative
+- The presence of incentives may change not only the social signaling but also how Sara feels about herself. Rather than feeling good each time she makes a trip to the recycling center, she may now wonder if it's worth going through all the trouble for a couple of bucks.
+- The holy grail in designing incentives is to make the signals sent by incentives work and, at the same time, also to reinforce self- and social signaling in the desired direction. 
+- Sometimes incentives send mixed signals and achieve the opposite of what they were designed for. 
+- A disclaimer before we start: just because incentives can be powerful, it doesn't mean that we should accept them as our unquestioned masters. Think about a single parent who loses their job and with it their child's health insurance. This parent will be very motivated to find another job, more so than if the child's insurance had not been affected. But is this intensified job search really worth the cost? Is it okay to incentivize people by putting their child's health and well-being at risk? I very strongly believe that every child deserves to have full access to the health-care system, regardless of background and circumstances. While providing free health care for children might be a bad incentive for job-seeking parents, it is, in my view, the right thing to do. As powerful as incentives can be, they shouldn't be the only consideration in policy design.
