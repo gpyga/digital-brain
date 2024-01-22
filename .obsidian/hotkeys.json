@@ -41,5 +41,13 @@
       ],
       "key": "R"
     }
+  ],
+  "templater-obsidian:templates/zettel.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
   ]
 }

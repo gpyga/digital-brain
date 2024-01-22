@@ -1,6 +1,6 @@
 2023-12-24 09:12:24
 Status: #reference
-Tags: [[Digital Brain]], [[Productivity]]
+Tags: [[Digital Brain]], [[Productivity]], [[Information Science]]
 # Building a Second Brain is an information management system
 
 ```ad-quote
